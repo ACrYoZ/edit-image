@@ -2,6 +2,8 @@
 
 Adds custom text to image using [canvas] library
 
+Instructions for Mac on Apple Silicon below
+
 ## Installation
 
 To make project work properly first need to install all dependencies according to [documentaion]
